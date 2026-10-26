@@ -1,0 +1,685 @@
+Vehicle ID,Vehicle Model,Manufacturer,Vehicle Category,Manufacturing Country,Model Year,Annual Sales,Battery Technology,Battery Capacity (kWh),Driving Range (km),Charging Time (hours),Vehicle Price,Customer Rating,Estimated CO2 Emissions Avoided
+EV-1001,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2019,50909,LFP,3.5,149,5.94,1793,3.7,0.93
+EV-1002,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2019,81697,LFP,3.8,174,5.02,1695,3.9,0.95
+EV-1003,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2020,117838,NMC,3.7,185,3.9,1883,4.6,0.97
+EV-1004,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2020,99596,NMC,3.6,159,5.88,1585,4.6,1.02
+EV-1005,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2021,157003,LFP,4.2,165,5.41,1747,4.5,0.91
+EV-1006,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2021,86180,LFP,4.0,158,4.48,1799,4.6,0.91
+EV-1007,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2022,152564,LFP,4.2,165,5.57,1835,4.8,0.98
+EV-1008,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2022,85246,LFP,3.9,164,4.13,1927,4.9,0.97
+EV-1009,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2023,225037,LFP,4.3,193,3.76,1845,4.3,0.93
+EV-1010,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2023,90286,LFP,4.3,166,5.07,1741,3.7,0.99
+EV-1011,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2024,123719,NMC,4.5,198,3.46,1981,4.1,0.92
+EV-1012,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2024,139261,LFP,4.3,178,4.12,1926,4.4,0.91
+EV-1013,Ola S1 Pro Standard,Ola Electric,Two-Wheeler,India,2025,280553,NMC,4.6,215,3.33,1992,4.4,1.02
+EV-1014,Ola S1 Pro Extended,Ola Electric,Two-Wheeler,India,2025,84299,LFP,4.5,187,3.9,1825,3.7,0.97
+EV-1015,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2019,37798,LFP,2.8,123,4.35,1278,4.3,0.87
+EV-1016,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2019,91295,LFP,2.9,120,4.67,1272,3.8,0.88
+EV-1017,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2020,39846,LFP,2.9,134,4.29,1298,4.3,0.9
+EV-1018,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2020,132750,LFP,3.1,135,4.59,1448,4.7,0.83
+EV-1019,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2021,172632,LFP,3.2,143,4.08,1373,4.0,0.88
+EV-1020,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2021,134934,LFP,3.0,128,4.69,1350,,0.9
+EV-1021,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2022,258953,LFP,3.1,136,3.85,1432,4.4,0.87
+EV-1022,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2022,89902,LFP,3.3,131,4.61,1332,4.2,0.88
+EV-1023,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2023,207104,LFP,3.3,153,3.83,1358,4.3,0.82
+EV-1024,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2023,345508,LFP,3.5,145,4.04,1445,4.5,0.81
+EV-1025,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2024,154403,LFP,3.6,132,3.96,1421,4.0,0.85
+EV-1026,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2024,173589,LFP,3.4,136,3.69,1425,3.9,0.92
+EV-1027,Ola S1 Air Standard,Ola Electric,Two-Wheeler,India,2025,288137,LFP,3.6,143,3.28,1561,4.7,0.87
+EV-1028,Ola S1 Air Extended,Ola Electric,Two-Wheeler,India,2025,345904,LFP,3.5,128,4.32,1318,4.5,0.85
+EV-1029,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2019,38484,NMC,3.7,146,3.84,1918,3.9,0.98
+EV-1030,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2019,69859,NMC,3.6,148,4.15,1785,4.0,0.97
+EV-1031,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2020,19678,NMC,3.5,152,3.85,1828,4.6,0.92
+EV-1032,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2020,107617,NMC,3.6,146,3.54,1825,3.7,0.95
+EV-1033,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2021,121777,NMC,3.8,134,4.11,1913,3.7,0.98
+EV-1034,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2021,62836,NMC,3.6,125,3.76,2082,4.1,0.92
+EV-1035,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2022,130284,NMC,3.8,142,4.2,1988,4.2,0.97
+EV-1036,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2022,112539,NMC,3.6,141,4.22,1889,4.8,0.97
+EV-1037,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2023,105507,NMC,3.9,140,3.82,2100,4.7,0.89
+EV-1038,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2023,196896,NMC,3.7,150,3.04,1979,4.3,0.9
+EV-1039,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2024,170850,NMC,4.2,170,3.93,2156,4.4,0.98
+EV-1040,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2024,213044,NMC,3.9,165,4.42,2244,4.6,0.93
+EV-1041,Ather 450X Standard,Ather Energy,Two-Wheeler,India,2025,213735,NMC,4.3,164,2.98,2136,4.5,0.91
+EV-1042,Ather 450X Extended,Ather Energy,Two-Wheeler,India,2025,93753,NMC,4.2,142,3.85,1893,4.0,0.92
+EV-1043,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2019,69728,LFP,2.9,102,5.04,1494,4.6,0.8
+EV-1044,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2019,65730,LFP,3.0,101,5.98,1489,4.8,0.81
+EV-1045,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2020,25277,LFP,2.9,97,5.09,1407,4.4,0.76
+EV-1046,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2020,44491,LFP,3.0,110,4.83,1387,4.2,0.8
+EV-1047,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2021,156862,LFP,2.9,124,5.2,1494,4.0,0.77
+EV-1048,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2021,100880,LFP,3.1,122,3.59,1444,4.0,0.83
+EV-1049,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2022,29750,LFP,3.0,121,3.84,1566,4.1,0.83
+EV-1050,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2022,182304,LFP,3.1,118,4.8,1473,4.4,0.77
+EV-1051,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2023,56991,LFP,3.1,116,4.14,1658,4.9,0.83
+EV-1052,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2023,146492,LFP,3.2,119,4.87,1613,4.2,0.84
+EV-1053,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2024,228866,LFP,3.2,119,3.63,1628,4.1,0.81
+EV-1054,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2024,41392,LFP,3.1,117,3.89,1580,4.8,0.77
+EV-1055,Ather 450S Standard,Ather Energy,Two-Wheeler,India,2025,116151,LFP,3.3,135,4.02,1598,4.5,0.79
+EV-1056,Ather 450S Extended,Ather Energy,Two-Wheeler,India,2025,125857,LFP,3.3,125,4.1,1603,3.8,0.78
+EV-1057,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2019,62942,LFP,4.3,144,4.13,1595,4.4,0.95
+EV-1058,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2019,30037,LFP,3.8,114,4.48,1462,4.8,0.91
+EV-1059,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2020,95897,LFP,3.6,101,4.13,1776,3.8,0.84
+EV-1060,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2020,24395,LFP,3.6,127,3.84,1680,4.6,0.91
+EV-1061,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2021,28191,LFP,4.6,127,3.86,1687,4.9,0.85
+EV-1062,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2021,118976,LFP,4.4,114,3.78,1585,4.3,0.84
+EV-1063,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2022,147318,LFP,4.6,142,4.24,1831,4.8,0.88
+EV-1064,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2022,130303,LFP,4.5,156,3.31,1700,4.0,0.85
+EV-1065,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2023,108325,LFP,4.7,158,3.53,1600,4.0,0.85
+EV-1066,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2023,248926,LFP,5.1,142,3.32,1762,3.9,0.9
+EV-1067,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2024,179659,LFP,5.2,137,3.22,1658,4.5,0.88
+EV-1068,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2024,225867,LFP,4.5,128,3.93,1850,4.4,0.88
+EV-1069,TVS iQube ST Standard,TVS Motor,Two-Wheeler,India,2025,137782,LFP,4.7,149,3.14,1676,4.8,0.89
+EV-1070,TVS iQube ST Extended,TVS Motor,Two-Wheeler,India,2025,367078,LFP,5.3,145,3.05,1759,4.8,0.89
+EV-1071,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2019,42697,NMC,3.2,98,4.38,1525,4.2,0.79
+EV-1072,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2019,75177,NMC,3.4,111,4.76,1625,4.3,0.87
+EV-1073,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2020,44980,NMC,3.4,123,4.64,1558,4.6,0.82
+EV-1074,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2020,58500,NMC,3.4,125,4.36,1527,4.8,0.82
+EV-1075,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2021,95394,NMC,3.3,96,4.38,1704,4.2,0.86
+EV-1076,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2021,31089,NMC,3.5,126,4.3,1623,4.1,0.85
+EV-1077,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2022,151613,NMC,3.7,125,3.97,1624,4.0,0.8
+EV-1078,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2022,33508,NMC,3.4,102,4.26,1737,4.7,0.81
+EV-1079,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2023,122586,NMC,3.5,108,3.81,1561,4.5,0.83
+EV-1080,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2023,161434,NMC,3.4,124,4.08,1609,3.8,0.88
+EV-1081,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2024,106079,NMC,3.7,117,3.76,1633,4.4,0.84
+EV-1082,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2024,297934,NMC,3.3,134,3.32,1825,4.6,0.87
+EV-1083,Bajaj Chetak Premium Standard,Bajaj Auto,Two-Wheeler,India,2025,293888,NMC,3.8,117,3.11,1649,4.5,0.79
+EV-1084,Bajaj Chetak Premium Extended,Bajaj Auto,Two-Wheeler,India,2025,140087,NMC,3.9,129,3.4,1711,4.6,0.8
+EV-1085,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2019,75876,NMC,3.6,152,3.18,2937,4.9,0.89
+EV-1086,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2019,37438,Solid-State,3.6,128,3.53,3286,4.7,0.92
+EV-1087,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2020,92116,NMC,3.7,114,3.11,3310,4.8,0.87
+EV-1088,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2020,57662,NMC,3.5,150,2.9,3303,4.5,0.93
+EV-1089,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2021,84960,NMC,3.3,163,2.86,3407,4.5,0.94
+EV-1090,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2021,59866,Solid-State,3.7,159,3.31,3408,4.5,0.88
+EV-1091,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2022,98655,Solid-State,4.1,160,3.12,3594,3.9,0.87
+EV-1092,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2022,170590,Solid-State,3.3,132,3.33,3234,3.9,0.95
+EV-1093,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2023,265017,NMC,3.9,163,3.16,3314,4.9,0.92
+EV-1094,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2023,94839,NMC,3.4,165,2.62,3238,3.9,0.9
+EV-1095,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2024,50854,NMC,4.1,155,2.51,3466,4.6,0.96
+EV-1096,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2024,297673,Solid-State,3.8,174,2.55,3496,3.8,0.86
+EV-1097,Gogoro SuperSport Standard,Gogoro,Two-Wheeler,Taiwan,2025,191729,NMC,3.6,146,2.48,3820,4.4,0.87
+EV-1098,Gogoro SuperSport Extended,Gogoro,Two-Wheeler,Taiwan,2025,154356,NMC,4.3,170,2.64,3278,4.2,0.9
+EV-1099,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2019,15501,LFP,3.4,100,6.04,3077,4.2,0.89
+EV-1100,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2019,56273,Sodium-Ion,4.0,113,5.25,2873,4.6,0.9
+EV-1101,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2020,23410,LFP,4.3,115,5.0,3299,4.7,0.85
+EV-1102,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2020,15525,Sodium-Ion,3.8,129,5.91,3378,4.8,0.9
+EV-1103,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2021,114354,Sodium-Ion,3.2,108,5.33,2958,3.8,0.89
+EV-1104,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2021,155345,LFP,3.3,116,4.6,3105,4.4,0.91
+EV-1105,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2022,75535,LFP,3.5,126,4.39,3322,4.6,0.82
+EV-1106,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2022,35134,Sodium-Ion,3.4,127,4.57,3243,3.9,0.91
+EV-1107,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2023,86490,LFP,4.4,109,4.38,3101,4.4,0.88
+EV-1108,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2023,167781,Sodium-Ion,3.4,133,3.96,3719,4.6,0.85
+EV-1109,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2024,162919,LFP,4.0,142,4.72,3567,3.8,0.86
+EV-1110,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2024,70986,Sodium-Ion,4.1,118,3.94,3173,4.3,0.91
+EV-1111,Niu NQi GTS Standard,Niu Technologies,Two-Wheeler,China,2025,93774,Sodium-Ion,4.0,151,3.45,3205,4.6,0.82
+EV-1112,Niu NQi GTS Extended,Niu Technologies,Two-Wheeler,China,2025,149236,Sodium-Ion,4.2,132,4.36,3760,4.9,0.84
+EV-1113,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2019,41269,NMC,14.6,217,2.57,19611,3.8,1.53
+EV-1114,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2019,61446,NMC,16.3,249,3.44,20930,3.7,1.55
+EV-1115,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2020,81717,NMC,15.8,223,1.99,21492,4.3,1.41
+EV-1116,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2020,87503,NMC,16.9,267,3.34,21642,4.5,1.39
+EV-1117,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2021,145514,NMC,15.4,210,2.55,21813,4.1,1.49
+EV-1118,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2021,100152,NMC,18.0,226,3.24,20626,,1.44
+EV-1119,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2022,91938,NMC,17.7,273,3.28,21269,4.1,1.41
+EV-1120,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2022,118922,NMC,16.7,257,3.82,20438,4.3,1.52
+EV-1121,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2023,179938,NMC,18.1,282,2.83,20105,4.8,1.51
+EV-1122,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2023,158453,NMC,17.3,258,2.56,22048,4.1,1.53
+EV-1123,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2024,181778,NMC,19.4,235,2.72,23050,4.2,1.41
+EV-1124,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2024,279494,NMC,19.1,223,2.99,20962,4.7,1.43
+EV-1125,Zero SR/F Standard,Zero Motorcycles,Two-Wheeler,USA,2025,157824,NMC,17.7,287,2.46,20471,3.7,1.39
+EV-1126,Zero SR/F Extended,Zero Motorcycles,Two-Wheeler,USA,2025,301673,NMC,17.6,300,1.64,23446,3.9,1.43
+EV-1127,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2019,68197,NMC,15.7,186,2.65,20198,4.4,1.46
+EV-1128,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2019,17293,NMC,15.1,189,1.89,22602,4.8,1.44
+EV-1129,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2020,31019,NMC,16.1,219,2.23,21850,4.5,1.43
+EV-1130,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2020,74151,NMC,15.5,212,3.84,21786,4.9,1.38
+EV-1131,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2021,38751,NMC,16.2,185,2.87,23212,4.1,1.39
+EV-1132,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2021,155662,NMC,16.7,236,2.54,21774,3.7,1.37
+EV-1133,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2022,144676,NMC,17.2,207,2.43,21912,4.0,1.49
+EV-1134,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2022,96529,NMC,17.2,204,2.39,24322,4.9,1.42
+EV-1135,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2023,74732,NMC,17.1,243,1.65,23869,4.1,1.35
+EV-1136,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2023,238024,NMC,17.4,216,2.34,21884,4.1,1.51
+EV-1137,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2024,84080,NMC,17.8,244,2.6,24024,3.7,1.48
+EV-1138,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2024,231964,NMC,17.1,208,2.06,23922,4.8,1.4
+EV-1139,LiveWire ONE Standard,LiveWire,Two-Wheeler,USA,2025,206488,NMC,18.2,239,2.39,23047,4.2,1.43
+EV-1140,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2025,88193,NMC,18.4,247,2.44,24825,3.8,1.36
+EV-1141,Nissan Leaf SV,Nissan,Hatchback,Japan,2019,22507,NMC,59.9,341,8.62,32796,4.1,2.81
+EV-1142,Nissan Leaf SV,Nissan,Hatchback,Japan,2020,50268,LFP,57.4,295,6.39,32526,4.1,3.06
+EV-1143,Nissan Leaf SV,Nissan,Hatchback,Japan,2021,105233,LFP,55.2,259,7.99,32899,3.8,3.12
+EV-1144,Nissan Leaf SV,Nissan,Hatchback,Japan,2022,155209,LFP,53.1,337,7.47,32759,4.2,3.1
+EV-1145,Nissan Leaf SV,Nissan,Hatchback,Japan,2023,117354,LFP,63.0,325,5.98,31796,4.0,2.78
+EV-1146,Nissan Leaf SV,Nissan,Hatchback,Japan,2024,233630,LFP,60.1,332,5.7,32574,3.9,3.0
+EV-1147,Nissan Leaf SV,Nissan,Hatchback,Japan,2025,194410,NMC,66.4,361,4.76,35335,4.6,2.91
+EV-1148,Renault Zoe E-Tech,Renault,Hatchback,France,2019,22889,NMC,53.0,368,7.9,36059,3.8,2.97
+EV-1149,Renault Zoe E-Tech,Renault,Hatchback,France,2020,34862,NMC,54.3,370,6.25,34014,4.2,3.25
+EV-1150,Renault Zoe E-Tech,Renault,Hatchback,France,2021,82199,NMC,55.6,378,5.74,32725,4.0,3.29
+EV-1151,Renault Zoe E-Tech,Renault,Hatchback,France,2022,142828,NMC,58.1,431,5.42,38439,4.3,2.98
+EV-1152,Renault Zoe E-Tech,Renault,Hatchback,France,2023,141958,NMC,58.9,427,5.38,36583,4.3,3.16
+EV-1153,Renault Zoe E-Tech,Renault,Hatchback,France,2024,70287,NMC,60.3,450,5.94,35523,4.4,2.97
+EV-1154,Renault Zoe E-Tech,Renault,Hatchback,France,2025,230340,NMC,62.5,431,5.38,39754,4.1,3.32
+EV-1155,Fiat 500e,Stellantis,Hatchback,Italy,2019,31499,NMC,27.6,251,4.42,27745,4.4,2.64
+EV-1156,Fiat 500e,Stellantis,Hatchback,Italy,2020,46997,NMC,41.9,228,5.69,30306,4.3,2.66
+EV-1157,Fiat 500e,Stellantis,Hatchback,Italy,2021,90247,NMC,40.8,247,5.99,32957,3.7,2.63
+EV-1158,Fiat 500e,Stellantis,Hatchback,Italy,2022,114663,NMC,40.1,276,5.13,32284,3.7,2.79
+EV-1159,Fiat 500e,Stellantis,Hatchback,Italy,2023,108759,NMC,30.5,267,4.34,31190,4.7,2.72
+EV-1160,Fiat 500e,Stellantis,Hatchback,Italy,2024,144304,NMC,38.0,306,4.31,35054,4.4,2.7
+EV-1161,Fiat 500e,Stellantis,Hatchback,Italy,2025,103907,NMC,40.9,236,4.15,35230,3.9,2.71
+EV-1162,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2019,55175,NMC,67.1,478,7.77,41037,4.2,3.38
+EV-1163,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2020,24280,NMC,65.3,446,6.87,38653,4.3,3.64
+EV-1164,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2021,19853,NMC,64.0,499,6.54,42240,4.2,3.55
+EV-1165,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2022,85549,NMC,76.9,458,7.19,44844,4.5,3.56
+EV-1166,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2023,193289,NMC,71.3,544,5.65,43839,4.8,3.31
+EV-1167,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2024,91020,NMC,86.3,462,6.26,47070,3.7,3.36
+EV-1168,Volkswagen ID.3 Pro,Volkswagen,Hatchback,Germany,2025,157692,NMC,88.3,504,,46307,4.0,3.59
+EV-1169,BYD Dolphin Standard,BYD,Hatchback,China,2019,66782,Sodium-Ion,47.4,356,6.01,26650,3.9,3.18
+EV-1170,BYD Dolphin Standard,BYD,Hatchback,China,2020,38745,Sodium-Ion,59.3,368,6.36,21485,4.0,2.94
+EV-1171,BYD Dolphin Standard,BYD,Hatchback,China,2021,37987,Sodium-Ion,63.0,371,5.16,25612,4.1,3.01
+EV-1172,BYD Dolphin Standard,BYD,Hatchback,China,2022,115648,Sodium-Ion,60.3,431,5.33,29037,4.9,3.0
+EV-1173,BYD Dolphin Standard,BYD,Hatchback,China,2023,165978,Sodium-Ion,63.0,460,6.01,27149,4.3,2.99
+EV-1174,BYD Dolphin Standard,BYD,Hatchback,China,2024,74394,LFP,52.3,426,5.13,24728,3.9,3.08
+EV-1175,BYD Dolphin Standard,BYD,Hatchback,China,2025,279745,LFP,68.7,407,4.34,27169,4.1,2.86
+EV-1176,MG4 EV Trophy,SAIC,Hatchback,China,2019,57270,NMC,61.6,427,5.5,27739,3.8,3.43
+EV-1177,MG4 EV Trophy,SAIC,Hatchback,China,2020,75176,LFP,56.3,367,6.66,33846,4.2,3.42
+EV-1178,MG4 EV Trophy,SAIC,Hatchback,China,2021,73546,NMC,59.0,447,6.15,29016,4.3,3.34
+EV-1179,MG4 EV Trophy,SAIC,Hatchback,China,2022,50612,LFP,67.0,479,5.78,30550,4.3,3.1
+EV-1180,MG4 EV Trophy,SAIC,Hatchback,China,2023,25883,LFP,70.3,455,5.93,35169,3.9,3.08
+EV-1181,MG4 EV Trophy,SAIC,Hatchback,China,2024,192689,LFP,64.8,489,4.57,31986,4.6,3.1
+EV-1182,MG4 EV Trophy,SAIC,Hatchback,China,2025,250674,NMC,63.1,518,5.2,34811,4.9,3.26
+EV-1183,Peugeot e-208 GT,Peugeot,Hatchback,France,2019,33583,NMC,50.6,355,7.62,36652,4.9,3.32
+EV-1184,Peugeot e-208 GT,Peugeot,Hatchback,France,2020,72075,NMC,53.0,366,5.9,38368,4.1,3.23
+EV-1185,Peugeot e-208 GT,Peugeot,Hatchback,France,2021,85669,NMC,54.7,409,6.06,34113,4.8,3.29
+EV-1186,Peugeot e-208 GT,Peugeot,Hatchback,France,2022,132260,NMC,55.4,407,5.84,32660,4.4,3.22
+EV-1187,Peugeot e-208 GT,Peugeot,Hatchback,France,2023,44363,NMC,56.7,430,5.94,43254,4.9,3.14
+EV-1188,Peugeot e-208 GT,Peugeot,Hatchback,France,2024,169582,NMC,58.6,432,5.0,36751,4.1,3.09
+EV-1189,Peugeot e-208 GT,Peugeot,Hatchback,France,2025,43105,NMC,59.5,461,5.33,36153,4.7,3.24
+EV-1190,Tata Tiago EV,Tata Motors,Hatchback,India,2019,51808,LFP,20.5,287,4.87,12156,4.3,2.48
+EV-1191,Tata Tiago EV,Tata Motors,Hatchback,India,2020,21858,LFP,21.0,295,5.38,12188,4.6,2.43
+EV-1192,Tata Tiago EV,Tata Motors,Hatchback,India,2021,83896,LFP,22.9,284,5.31,11188,3.8,2.33
+EV-1193,Tata Tiago EV,Tata Motors,Hatchback,India,2022,18938,LFP,23.4,269,5.04,13376,4.4,2.28
+EV-1194,Tata Tiago EV,Tata Motors,Hatchback,India,2023,189904,LFP,24.2,267,4.79,14841,4.3,2.36
+EV-1195,Tata Tiago EV,Tata Motors,Hatchback,India,2024,77110,LFP,26.3,269,3.91,14636,4.5,2.54
+EV-1196,Tata Tiago EV,Tata Motors,Hatchback,India,2025,140122,LFP,22.9,289,2.99,12825,4.6,2.46
+EV-1197,Mini Electric Cooper,BMW,Hatchback,Germany,2019,56707,NMC,51.9,358,6.88,37233,4.5,2.76
+EV-1198,Mini Electric Cooper,BMW,Hatchback,Germany,2020,77948,NMC,37.5,351,4.65,41811,4.1,2.87
+EV-1199,Mini Electric Cooper,BMW,Hatchback,Germany,2021,96606,NMC,49.9,318,6.01,38847,4.1,2.7
+EV-1200,Mini Electric Cooper,BMW,Hatchback,Germany,2022,56812,NMC,55.0,300,6.0,40011,4.9,2.84
+EV-1201,Mini Electric Cooper,BMW,Hatchback,Germany,2023,67834,NMC,49.5,300,4.95,41487,3.8,2.76
+EV-1202,Mini Electric Cooper,BMW,Hatchback,Germany,2024,106426,NMC,54.7,371,4.07,35033,4.0,2.71
+EV-1203,Mini Electric Cooper,BMW,Hatchback,Germany,2025,227726,NMC,48.9,358,3.47,41647,4.7,2.66
+EV-1204,Citroen e-C3,Stellantis,Hatchback,France,2019,27384,LFP,34.9,294,7.61,19430,3.9,2.67
+EV-1205,Citroen e-C3,Stellantis,Hatchback,France,2020,62591,LFP,32.2,292,5.68,19266,4.3,2.78
+EV-1206,Citroen e-C3,Stellantis,Hatchback,France,2021,51115,LFP,32.5,326,5.43,22126,4.7,2.87
+EV-1207,Citroen e-C3,Stellantis,Hatchback,France,2022,122352,LFP,36.5,348,5.28,19191,4.5,2.9
+EV-1208,Citroen e-C3,Stellantis,Hatchback,France,2023,55743,LFP,37.8,337,5.18,18847,4.6,2.57
+EV-1209,Citroen e-C3,Stellantis,Hatchback,France,2024,174886,LFP,49.2,341,5.42,24369,3.9,2.67
+EV-1210,Citroen e-C3,Stellantis,Hatchback,France,2025,158292,LFP,45.5,385,4.13,20857,4.8,2.81
+EV-1211,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2019,58169,LFP,60.8,635,8.11,47737,4.5,4.18
+EV-1212,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2019,11203,LFP,61.0,636,7.18,49696,4.0,4.37
+EV-1213,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2020,53240,LFP,74.3,589,6.63,47514,4.9,4.35
+EV-1214,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2020,68416,NMC,71.1,622,7.73,41581,4.3,4.35
+EV-1215,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2021,63076,NMC,80.1,564,5.74,37835,4.7,4.6
+EV-1216,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2021,93532,LFP,69.0,528,7.12,40932,4.5,4.33
+EV-1217,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2022,389953,NCA,82.6,662,5.92,40884,4.7,4.41
+EV-1218,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2022,334424,LFP,69.5,578,6.07,46581,4.4,4.41
+EV-1219,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2023,478075,NMC,75.3,600,6.65,52765,4.1,4.22
+EV-1220,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2023,453708,NCA,71.2,653,5.7,43550,4.5,4.45
+EV-1221,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2024,44633,NCA,82.3,618,5.4,40037,3.9,4.54
+EV-1222,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2024,61672,LFP,81.1,647,5.82,45295,4.6,4.25
+EV-1223,Tesla Model 3 Long Range Standard,Tesla,Sedan,USA,2025,566387,NMC,75.9,633,5.79,47671,4.0,4.39
+EV-1224,Tesla Model 3 Long Range Extended,Tesla,Sedan,USA,2025,640480,NMC,84.0,710,5.25,47468,4.0,4.57
+EV-1225,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2019,105821,NCA,97.2,619,9.55,97655,4.4,4.88
+EV-1226,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2019,72237,NCA,95.8,575,8.14,88695,4.1,5.1
+EV-1227,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2020,77359,NCA,100.6,665,10.15,88533,3.8,4.83
+EV-1228,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2020,31827,NCA,101.3,588,8.24,101953,4.5,5.05
+EV-1229,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2021,105259,NCA,102.7,679,7.59,94589,4.8,4.86
+EV-1230,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2021,213404,NCA,104.9,653,9.73,103867,4.2,5.27
+EV-1231,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2022,305600,NCA,105.7,641,7.94,108623,4.6,4.68
+EV-1232,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2022,310557,NCA,103.1,680,8.44,100079,4.8,4.85
+EV-1233,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2023,321211,NCA,106.2,650,8.24,89668,4.6,4.93
+EV-1234,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2023,308568,NCA,109.6,643,6.81,99589,4.7,5.28
+EV-1235,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2024,172877,NCA,112.3,684,6.78,90338,4.2,5.17
+EV-1236,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2024,129734,NCA,112.0,690,7.61,91665,4.6,5.24
+EV-1237,Tesla Model S Plaid Standard,Tesla,Sedan,USA,2025,206296,NCA,116.0,662,7.58,103148,3.9,4.83
+EV-1238,Tesla Model S Plaid Extended,Tesla,Sedan,USA,2025,527373,NCA,112.4,739,6.91,93273,3.9,5.04
+EV-1239,BYD Han EV Flagship Standard,BYD,Sedan,China,2019,67398,LFP,80.3,513,8.67,38005,4.4,4.18
+EV-1240,BYD Han EV Flagship Extended,BYD,Sedan,China,2019,99896,LFP,85.1,584,8.28,38137,4.8,4.31
+EV-1241,BYD Han EV Flagship Standard,BYD,Sedan,China,2020,128234,LFP,79.1,503,8.37,37926,4.6,4.12
+EV-1242,BYD Han EV Flagship Extended,BYD,Sedan,China,2020,144362,LFP,68.5,580,6.64,39086,4.3,4.1
+EV-1243,BYD Han EV Flagship Standard,BYD,Sedan,China,2021,166917,LFP,75.3,599,6.26,44606,3.8,4.25
+EV-1244,BYD Han EV Flagship Extended,BYD,Sedan,China,2021,194414,LFP,71.2,620,6.57,41722,3.9,3.96
+EV-1245,BYD Han EV Flagship Standard,BYD,Sedan,China,2022,331891,LFP,86.7,573,6.27,40636,4.5,4.16
+EV-1246,BYD Han EV Flagship Extended,BYD,Sedan,China,2022,52483,LFP,71.7,627,6.16,46954,4.6,3.9
+EV-1247,BYD Han EV Flagship Standard,BYD,Sedan,China,2023,399402,LFP,77.8,607,5.96,46698,4.6,4.12
+EV-1248,BYD Han EV Flagship Extended,BYD,Sedan,China,2023,41111,LFP,77.9,658,6.9,37126,4.0,4.17
+EV-1249,BYD Han EV Flagship Standard,BYD,Sedan,China,2024,27088,LFP,96.3,577,5.85,40146,3.9,4.2
+EV-1250,BYD Han EV Flagship Extended,BYD,Sedan,China,2024,296652,LFP,91.3,594,7.09,46927,4.7,3.98
+EV-1251,BYD Han EV Flagship Standard,BYD,Sedan,China,2025,241629,LFP,76.5,660,5.7,41498,4.6,4.06
+EV-1252,BYD Han EV Flagship Extended,BYD,Sedan,China,2025,553368,LFP,88.5,614,5.28,44353,4.8,4.17
+EV-1253,BYD Seal AWD Standard,BYD,Sedan,China,2019,13391,LFP,71.1,550,7.11,36869,4.5,3.87
+EV-1254,BYD Seal AWD Extended,BYD,Sedan,China,2019,14923,LFP,66.9,520,7.58,35060,3.9,4.21
+EV-1255,BYD Seal AWD Standard,BYD,Sedan,China,2020,59904,LFP,66.5,507,6.56,42880,4.0,3.86
+EV-1256,BYD Seal AWD Extended,BYD,Sedan,China,2020,127985,LFP,80.6,530,6.72,41430,4.9,4.01
+EV-1257,BYD Seal AWD Standard,BYD,Sedan,China,2021,75037,LFP,79.9,552,5.52,39189,4.3,4.22
+EV-1258,BYD Seal AWD Extended,BYD,Sedan,China,2021,249375,LFP,67.5,524,5.75,38370,3.8,4.1
+EV-1259,BYD Seal AWD Standard,BYD,Sedan,China,2022,122753,LFP,67.1,543,5.84,45691,3.8,4.04
+EV-1260,BYD Seal AWD Extended,BYD,Sedan,China,2022,310198,LFP,87.7,572,6.08,38239,4.0,4.03
+EV-1261,BYD Seal AWD Standard,BYD,Sedan,China,2023,135586,LFP,69.1,583,5.49,39363,3.9,3.9
+EV-1262,BYD Seal AWD Extended,BYD,Sedan,China,2023,220826,LFP,83.1,628,6.89,38565,4.8,4.06
+EV-1263,BYD Seal AWD Standard,BYD,Sedan,China,2024,259178,LFP,76.5,554,5.0,38946,4.1,4.1
+EV-1264,BYD Seal AWD Extended,BYD,Sedan,China,2024,521794,LFP,93.4,564,5.39,44353,4.0,4.24
+EV-1265,BYD Seal AWD Standard,BYD,Sedan,China,2025,549196,LFP,80.5,666,4.87,45950,3.7,4.16
+EV-1266,BYD Seal AWD Extended,BYD,Sedan,China,2025,78027,LFP,85.6,603,5.9,38881,4.0,3.91
+EV-1267,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2019,45663,NMC,53.0,586,6.4,52770,3.7,4.31
+EV-1268,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2019,18177,NMC,71.9,607,7.82,51216,4.1,4.06
+EV-1269,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2020,158142,NMC,72.9,548,6.57,49685,4.4,4.18
+EV-1270,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2020,151577,NMC,64.0,579,5.8,49661,4.6,4.3
+EV-1271,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2021,200644,NMC,71.5,659,5.97,51648,4.0,4.53
+EV-1272,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2021,64854,NMC,72.4,658,6.91,43591,4.5,4.18
+EV-1273,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2022,129150,NMC,76.5,504,5.82,48515,4.2,4.44
+EV-1274,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2022,70284,NMC,61.8,525,5.69,52326,4.2,4.39
+EV-1275,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2023,199827,NMC,68.1,701,6.18,51419,3.8,4.17
+EV-1276,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2023,182647,NMC,70.0,627,6.04,44718,4.4,4.26
+EV-1277,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2024,108601,NMC,70.5,589,5.92,43829,4.1,4.03
+EV-1278,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2024,466289,NMC,69.0,593,5.62,48970,4.1,4.23
+EV-1279,Hyundai Ioniq 6 SE Standard,Hyundai,Sedan,South Korea,2025,408576,NMC,74.4,600,5.23,51345,4.7,4.22
+EV-1280,Hyundai Ioniq 6 SE Extended,Hyundai,Sedan,South Korea,2025,530706,NMC,77.7,706,5.21,55294,4.3,4.03
+EV-1281,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2019,27050,NMC,77.1,590,8.46,56471,4.9,4.84
+EV-1282,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2019,37548,NMC,71.9,535,8.26,65395,4.8,4.81
+EV-1283,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2020,126169,NMC,73.4,549,8.38,66820,4.4,4.73
+EV-1284,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2020,24867,NMC,78.0,496,8.54,70012,4.0,4.59
+EV-1285,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2021,168424,NMC,86.8,528,7.47,57477,4.5,4.51
+EV-1286,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2021,218907,NMC,87.0,520,8.14,67553,4.1,4.44
+EV-1287,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2022,119282,NMC,88.8,617,6.43,70163,4.6,4.63
+EV-1288,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2022,182462,NMC,78.9,542,,72606,3.9,4.46
+EV-1289,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2023,122987,NMC,80.1,653,5.75,73154,4.2,4.81
+EV-1290,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2023,266322,NMC,82.2,630,6.69,56601,3.9,4.78
+EV-1291,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2024,450437,NMC,85.4,636,6.65,55874,4.6,4.4
+EV-1292,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2024,27553,NMC,90.1,613,5.95,72864,4.8,4.65
+EV-1293,BMW i4 eDrive40 Standard,BMW,Sedan,Germany,2025,513507,NMC,85.6,651,6.54,65263,4.3,4.4
+EV-1294,BMW i4 eDrive40 Extended,BMW,Sedan,Germany,2025,240459,NMC,92.8,656,5.48,72164,4.5,4.63
+EV-1295,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2019,123295,NMC,94.3,574,8.54,77571,4.5,4.68
+EV-1296,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2019,86641,NMC,95.5,639,9.65,85147,4.9,4.72
+EV-1297,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2020,123787,NMC,95.4,637,10.39,80322,4.5,4.86
+EV-1298,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2020,51512,NMC,96.0,665,9.47,72399,4.7,5.04
+EV-1299,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2021,236514,NMC,101.1,680,7.65,89115,4.1,4.93
+EV-1300,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2021,138571,NMC,100.5,631,9.09,77627,4.7,4.8
+EV-1301,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2022,335661,NMC,100.6,667,9.08,96073,3.9,5.1
+EV-1302,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2022,262387,NMC,102.8,639,7.53,73833,3.9,5.04
+EV-1303,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2023,21142,NMC,105.5,670,7.58,84021,4.3,5.02
+EV-1304,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2023,384025,NMC,106.1,689,6.42,87854,4.1,4.62
+EV-1305,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2024,467531,NMC,104.3,703,7.14,87398,4.9,4.77
+EV-1306,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2024,88768,NMC,105.5,642,8.16,83109,4.6,4.93
+EV-1307,Mercedes-Benz EQE 350+ Standard,Mercedes-Benz,Sedan,Germany,2025,366124,NMC,106.6,732,6.89,94073,3.8,4.63
+EV-1308,Mercedes-Benz EQE 350+ Extended,Mercedes-Benz,Sedan,Germany,2025,418643,NMC,106.1,622,6.16,89668,3.7,4.82
+EV-1309,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2019,20240,NMC,109.2,701,9.28,92031,3.8,5.01
+EV-1310,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2019,73395,NMC,107.8,802,11.74,102373,4.8,5.41
+EV-1311,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2020,23023,Solid-State,103.4,677,11.58,116271,4.3,5.43
+EV-1312,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2020,155529,NMC,118.8,778,11.17,91379,4.7,5.18
+EV-1313,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2021,95015,Solid-State,108.8,727,10.16,96037,4.8,5.59
+EV-1314,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2021,109478,Solid-State,121.3,720,8.33,133630,4.7,5.48
+EV-1315,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2022,275736,NMC,102.9,803,10.03,111235,4.5,5.06
+EV-1316,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2022,173639,Solid-State,121.7,840,10.42,134394,4.8,5.24
+EV-1317,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2023,426004,NMC,109.9,795,9.38,120963,4.5,5.17
+EV-1318,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2023,390297,NMC,114.8,858,9.22,100862,4.4,4.95
+EV-1319,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2024,162317,NMC,119.9,831,7.45,107242,4.3,5.31
+EV-1320,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2024,82512,Solid-State,116.8,783,9.0,136137,4.3,5.38
+EV-1321,Lucid Air Grand Touring Standard,Lucid,Sedan,USA,2025,535543,NMC,119.7,769,8.91,145916,4.4,5.38
+EV-1322,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2025,297032,Solid-State,136.3,801,7.02,124146,4.5,5.42
+EV-1323,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2019,51875,NMC,81.7,491,,131445,3.8,5.23
+EV-1324,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2019,54222,NMC,82.8,529,7.8,104730,4.2,5.15
+EV-1325,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2020,119079,NMC,84.3,508,8.89,131082,4.8,4.74
+EV-1326,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2020,161620,NMC,81.5,540,8.1,142228,4.5,4.77
+EV-1327,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2021,187252,NMC,86.5,545,7.78,116944,4.0,4.91
+EV-1328,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2021,189528,NMC,110.1,495,7.81,130291,4.7,5.11
+EV-1329,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2022,326456,NMC,91.5,540,7.33,147983,4.3,5.1
+EV-1330,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2022,305506,NMC,105.7,573,7.96,134310,4.3,5.21
+EV-1331,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2023,86149,NMC,111.3,527,6.66,110309,4.0,4.81
+EV-1332,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2023,326828,NMC,107.9,523,6.55,106164,4.7,5.13
+EV-1333,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2024,501929,NMC,97.3,618,6.57,146355,4.9,4.85
+EV-1334,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2024,375766,NMC,90.7,523,7.52,147337,4.5,5.14
+EV-1335,Porsche Taycan 4S Standard,Porsche,Sedan,Germany,2025,320320,NMC,115.9,637,6.08,107723,4.2,4.93
+EV-1336,Porsche Taycan 4S Extended,Porsche,Sedan,Germany,2025,210944,NMC,96.4,574,6.33,105887,,5.25
+EV-1337,XPeng P7i Standard,XPeng,Sedan,China,2019,14119,NMC,73.0,553,7.82,32750,4.3,4.02
+EV-1338,XPeng P7i Extended,XPeng,Sedan,China,2019,71216,NMC,62.6,499,6.73,34261,4.9,4.23
+EV-1339,XPeng P7i Standard,XPeng,Sedan,China,2020,157476,LFP,65.0,531,7.61,33135,4.2,4.21
+EV-1340,XPeng P7i Extended,XPeng,Sedan,China,2020,83099,LFP,72.2,561,8.2,36822,3.8,4.27
+EV-1341,XPeng P7i Standard,XPeng,Sedan,China,2021,65133,LFP,72.4,502,7.97,38788,4.5,3.91
+EV-1342,XPeng P7i Extended,XPeng,Sedan,China,2021,29982,NMC,86.5,551,7.72,38166,4.5,3.81
+EV-1343,XPeng P7i Standard,XPeng,Sedan,China,2022,147480,NMC,66.3,517,5.58,43884,4.2,4.01
+EV-1344,XPeng P7i Extended,XPeng,Sedan,China,2022,242786,NMC,65.7,624,6.77,41973,3.8,4.28
+EV-1345,XPeng P7i Standard,XPeng,Sedan,China,2023,32020,LFP,75.3,645,5.87,38645,,3.91
+EV-1346,XPeng P7i Extended,XPeng,Sedan,China,2023,379929,NMC,90.0,655,6.24,45558,4.5,4.3
+EV-1347,XPeng P7i Standard,XPeng,Sedan,China,2024,175597,LFP,85.0,616,4.86,41612,4.6,4.27
+EV-1348,XPeng P7i Extended,XPeng,Sedan,China,2024,80468,NMC,74.9,711,4.92,40361,4.5,4.09
+EV-1349,XPeng P7i Standard,XPeng,Sedan,China,2025,82571,LFP,96.2,741,5.46,36315,4.6,4.05
+EV-1350,XPeng P7i Extended,XPeng,Sedan,China,2025,214213,NMC,81.2,656,4.88,36340,4.5,4.16
+EV-1351,NIO ET7 Standard,NIO,Sedan,China,2019,97067,NMC,117.4,637,8.28,59909,4.2,4.98
+EV-1352,NIO ET7 Extended,NIO,Sedan,China,2019,85425,NMC,126.0,635,9.02,64108,3.8,4.64
+EV-1353,NIO ET7 Standard,NIO,Sedan,China,2020,114544,NMC,145.8,620,9.33,77697,4.7,4.82
+EV-1354,NIO ET7 Extended,NIO,Sedan,China,2020,45538,NMC,147.0,728,10.53,72379,4.6,4.91
+EV-1355,NIO ET7 Standard,NIO,Sedan,China,2021,260599,Solid-State,89.8,705,7.4,65355,4.5,4.93
+EV-1356,NIO ET7 Extended,NIO,Sedan,China,2021,102654,NMC,114.5,642,9.28,73357,4.0,4.76
+EV-1357,NIO ET7 Standard,NIO,Sedan,China,2022,301504,NMC,102.8,664,8.22,69386,3.7,4.86
+EV-1358,NIO ET7 Extended,NIO,Sedan,China,2022,227444,NMC,138.5,775,8.88,68634,4.1,4.86
+EV-1359,NIO ET7 Standard,NIO,Sedan,China,2023,219757,NMC,126.5,746,7.5,78426,4.4,4.77
+EV-1360,NIO ET7 Extended,NIO,Sedan,China,2023,359053,NMC,120.1,671,6.58,63658,4.5,4.72
+EV-1361,NIO ET7 Standard,NIO,Sedan,China,2024,44693,Solid-State,147.1,778,,75883,4.4,4.56
+EV-1362,NIO ET7 Extended,NIO,Sedan,China,2024,342230,NMC,161.7,640,8.57,72117,4.8,4.91
+EV-1363,NIO ET7 Standard,NIO,Sedan,China,2025,108031,Solid-State,170.6,705,6.74,65889,4.4,4.93
+EV-1364,NIO ET7 Extended,NIO,Sedan,China,2025,35873,Solid-State,102.3,904,6.83,67842,4.3,5.02
+EV-1365,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2019,98619,NMC,79.7,531,8.44,59599,3.8,4.45
+EV-1366,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2019,34041,NMC,80.7,573,7.68,48234,4.7,4.53
+EV-1367,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2020,137230,NMC,75.6,605,7.99,53069,4.8,4.13
+EV-1368,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2020,42515,NMC,74.4,493,6.75,54878,4.7,4.31
+EV-1369,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2021,184233,NMC,75.0,570,7.56,53147,4.6,4.32
+EV-1370,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2021,46700,NMC,75.3,569,7.86,59351,4.7,4.15
+EV-1371,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2022,241543,NMC,81.1,587,6.38,54764,4.5,4.17
+EV-1372,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2022,212934,NMC,86.1,619,6.67,52920,4.6,4.61
+EV-1373,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2023,201812,NMC,85.6,605,6.93,62996,3.9,4.45
+EV-1374,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2023,291687,NMC,79.5,632,6.84,59514,4.9,4.13
+EV-1375,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2024,68228,NMC,90.2,581,6.31,59847,4.0,4.55
+EV-1376,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2024,110704,NMC,83.8,637,6.73,54851,4.3,4.4
+EV-1377,Polestar 2 Dual Motor Standard,Volvo,Sedan,Sweden,2025,279663,NMC,85.8,566,5.64,62440,4.2,4.36
+EV-1378,Polestar 2 Dual Motor Extended,Volvo,Sedan,Sweden,2025,65041,NMC,92.1,687,5.9,50738,4.5,4.64
+EV-1379,Tesla Model Y Performance Standard,Tesla,SUV,USA,2019,89881,LFP,75.4,510,7.23,51208,4.2,4.82
+EV-1380,Tesla Model Y Performance Extended,Tesla,SUV,USA,2019,195289,NMC,61.7,525,7.49,47991,4.8,4.67
+EV-1381,Tesla Model Y Performance Standard,Tesla,SUV,USA,2020,302161,NCA,67.0,466,6.9,54241,3.8,4.42
+EV-1382,Tesla Model Y Performance Extended,Tesla,SUV,USA,2020,345593,LFP,72.8,465,8.36,47743,4.8,4.71
+EV-1383,Tesla Model Y Performance Standard,Tesla,SUV,USA,2021,464355,NMC,74.8,579,6.32,50215,4.3,4.69
+EV-1384,Tesla Model Y Performance Extended,Tesla,SUV,USA,2021,32057,LFP,71.4,561,6.56,50498,4.5,4.6
+EV-1385,Tesla Model Y Performance Standard,Tesla,SUV,USA,2022,291638,NCA,72.8,528,6.51,51822,4.3,4.5
+EV-1386,Tesla Model Y Performance Extended,Tesla,SUV,USA,2022,605784,LFP,83.0,509,6.56,59447,4.6,4.85
+EV-1387,Tesla Model Y Performance Standard,Tesla,SUV,USA,2023,493206,LFP,77.3,513,6.82,55464,4.9,4.88
+EV-1388,Tesla Model Y Performance Extended,Tesla,SUV,USA,2023,191576,LFP,79.8,521,6.09,44531,4.0,4.52
+EV-1389,Tesla Model Y Performance Standard,Tesla,SUV,USA,2024,498592,LFP,70.8,569,5.81,57109,4.1,4.78
+EV-1390,Tesla Model Y Performance Extended,Tesla,SUV,USA,2024,580326,LFP,73.4,569,5.63,51884,4.6,4.9
+EV-1391,Tesla Model Y Performance Standard,Tesla,SUV,USA,2025,817179,NMC,85.8,584,6.35,60042,4.2,4.91
+EV-1392,Tesla Model Y Performance Extended,Tesla,SUV,USA,2025,610692,NCA,74.2,530,5.26,55177,4.7,4.59
+EV-1393,BYD Atto 3 Superior Standard,BYD,SUV,China,2019,30358,LFP,54.3,377,7.58,36864,3.9,3.85
+EV-1394,BYD Atto 3 Superior Extended,BYD,SUV,China,2019,155730,LFP,59.8,398,7.56,35654,3.8,4.28
+EV-1395,BYD Atto 3 Superior Standard,BYD,SUV,China,2020,227596,LFP,54.7,401,6.71,34487,4.7,3.97
+EV-1396,BYD Atto 3 Superior Extended,BYD,SUV,China,2020,204409,LFP,56.4,469,6.56,37038,4.2,4.19
+EV-1397,BYD Atto 3 Superior Standard,BYD,SUV,China,2021,198976,LFP,58.6,441,6.18,35879,4.0,3.96
+EV-1398,BYD Atto 3 Superior Extended,BYD,SUV,China,2021,385362,LFP,58.6,444,6.07,34855,4.1,4.2
+EV-1399,BYD Atto 3 Superior Standard,BYD,SUV,China,2022,469198,LFP,61.0,474,5.83,32199,4.5,4.23
+EV-1400,BYD Atto 3 Superior Extended,BYD,SUV,China,2022,205363,LFP,57.1,434,6.9,37157,4.6,4.22
+EV-1401,BYD Atto 3 Superior Standard,BYD,SUV,China,2023,425588,LFP,57.7,415,5.2,34040,4.1,3.88
+EV-1402,BYD Atto 3 Superior Extended,BYD,SUV,China,2023,426832,LFP,57.7,422,6.38,30364,4.1,3.96
+EV-1403,BYD Atto 3 Superior Standard,BYD,SUV,China,2024,779902,LFP,68.9,481,5.51,37812,3.8,4.04
+EV-1404,BYD Atto 3 Superior Extended,BYD,SUV,China,2024,968125,LFP,67.7,448,5.05,36389,4.0,4.32
+EV-1405,BYD Atto 3 Superior Standard,BYD,SUV,China,2025,402866,LFP,64.0,507,6.04,36348,4.5,3.82
+EV-1406,BYD Atto 3 Superior Extended,BYD,SUV,China,2025,737262,LFP,61.4,484,6.12,30998,4.1,3.89
+EV-1407,BYD Tang EV Standard,BYD,SUV,China,2019,34156,LFP,99.5,483,10.51,50875,4.6,4.72
+EV-1408,BYD Tang EV Extended,BYD,SUV,China,2019,125089,LFP,88.4,535,10.62,42032,4.6,4.64
+EV-1409,BYD Tang EV Standard,BYD,SUV,China,2020,97480,LFP,96.1,531,8.85,49509,4.6,4.72
+EV-1410,BYD Tang EV Extended,BYD,SUV,China,2020,178251,LFP,100.0,503,9.06,43408,4.0,5.08
+EV-1411,BYD Tang EV Standard,BYD,SUV,China,2021,146656,LFP,92.9,485,7.86,42473,3.9,4.57
+EV-1412,BYD Tang EV Extended,BYD,SUV,China,2021,187142,LFP,109.6,511,8.91,47516,4.4,4.94
+EV-1413,BYD Tang EV Standard,BYD,SUV,China,2022,35697,LFP,103.6,509,8.1,54517,3.8,4.68
+EV-1414,BYD Tang EV Extended,BYD,SUV,China,2022,287407,LFP,107.5,594,8.36,45772,3.8,5.14
+EV-1415,BYD Tang EV Standard,BYD,SUV,China,2023,527371,LFP,112.4,630,7.81,49408,4.7,5.06
+EV-1416,BYD Tang EV Extended,BYD,SUV,China,2023,82608,LFP,116.6,513,6.73,58977,4.6,4.89
+EV-1417,BYD Tang EV Standard,BYD,SUV,China,2024,550753,LFP,103.4,598,8.34,53080,4.4,4.98
+EV-1418,BYD Tang EV Extended,BYD,SUV,China,2024,332700,LFP,121.0,520,7.09,48046,4.1,4.76
+EV-1419,BYD Tang EV Standard,BYD,SUV,China,2025,327848,LFP,123.0,584,7.51,48267,4.4,5.02
+EV-1420,BYD Tang EV Extended,BYD,SUV,China,2025,804521,LFP,126.1,578,7.82,53436,4.1,4.75
+EV-1421,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2019,103342,NMC,66.3,420,8.66,50356,4.4,4.23
+EV-1422,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2019,74902,NMC,69.1,389,7.46,47249,4.8,4.6
+EV-1423,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2020,79857,NMC,80.0,419,7.62,51319,4.6,4.51
+EV-1424,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2020,186904,NMC,79.8,478,7.88,49687,4.6,4.67
+EV-1425,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2021,255545,NMC,78.9,451,6.82,46258,3.9,4.57
+EV-1426,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2021,132008,NMC,86.0,483,6.1,48600,4.3,4.61
+EV-1427,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2022,195149,NMC,72.9,452,7.13,45297,4.4,4.5
+EV-1428,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2022,181987,NMC,72.5,438,6.98,40899,3.9,4.38
+EV-1429,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2023,546310,NMC,86.1,436,7.05,48922,4.0,4.57
+EV-1430,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2023,487959,NMC,85.8,501,5.8,55112,3.7,4.58
+EV-1431,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2024,404056,NMC,77.6,480,6.2,49725,4.4,4.75
+EV-1432,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2024,216864,NMC,79.3,537,5.36,44378,4.3,4.72
+EV-1433,Volkswagen ID.4 Pro AWD Standard,Volkswagen,SUV,Germany,2025,539338,NMC,81.5,488,6.16,42846,4.0,4.4
+EV-1434,Volkswagen ID.4 Pro AWD Extended,Volkswagen,SUV,Germany,2025,587948,NMC,93.5,504,4.92,55957,3.7,4.71
+EV-1435,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2019,171178,NMC,66.7,424,6.1,48785,4.3,4.75
+EV-1436,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2019,157685,NMC,80.8,506,5.59,43568,4.5,4.33
+EV-1437,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2020,82588,NMC,73.5,496,6.54,49541,4.4,4.54
+EV-1438,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2020,130741,NMC,65.2,418,7.06,46689,3.9,4.86
+EV-1439,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2021,303974,NMC,79.3,468,5.2,51457,3.9,4.29
+EV-1440,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2021,110699,NMC,85.4,459,6.13,57332,4.6,4.34
+EV-1441,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2022,33425,NMC,63.6,552,5.97,50596,3.8,4.73
+EV-1442,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2022,106647,NMC,77.0,507,5.69,48659,3.7,4.72
+EV-1443,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2023,563402,NMC,91.3,544,5.58,45221,4.2,4.64
+EV-1444,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2023,249136,NMC,89.6,545,5.99,56982,4.8,4.61
+EV-1445,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2024,529766,NMC,81.6,518,4.69,51586,4.4,4.58
+EV-1446,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2024,653786,NMC,71.7,518,5.52,45734,4.5,4.8
+EV-1447,Hyundai Ioniq 5 Limited Standard,Hyundai,SUV,South Korea,2025,143025,NMC,92.9,526,4.47,60364,4.2,4.54
+EV-1448,Hyundai Ioniq 5 Limited Extended,Hyundai,SUV,South Korea,2025,587177,NMC,81.5,596,5.3,50263,3.9,4.7
+EV-1449,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2019,166437,NMC,60.2,452,6.47,54037,4.2,4.5
+EV-1450,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2019,78195,NMC,75.7,478,6.01,45240,4.1,4.72
+EV-1451,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2020,124779,NMC,65.4,448,6.77,52294,4.3,4.75
+EV-1452,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2020,136102,NMC,64.4,487,5.81,50754,4.4,4.6
+EV-1453,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2021,119119,NMC,62.3,447,5.31,55123,4.8,4.3
+EV-1454,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2021,347284,NMC,81.6,436,6.4,52415,4.6,4.49
+EV-1455,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2022,150260,NMC,64.8,470,5.27,50788,3.9,4.68
+EV-1456,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2022,253678,NMC,69.8,479,4.98,54953,3.8,4.7
+EV-1457,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2023,306459,NMC,73.7,554,5.66,60113,4.6,4.57
+EV-1458,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2023,441614,NMC,83.6,469,4.76,53184,3.9,4.63
+EV-1459,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2024,566882,NMC,75.3,507,5.16,47455,4.1,4.57
+EV-1460,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2024,164747,NMC,83.1,466,5.07,62608,,4.81
+EV-1461,Kia EV6 GT-Line Standard,Kia,SUV,South Korea,2025,297049,NMC,88.5,593,4.97,60888,4.6,4.52
+EV-1462,Kia EV6 GT-Line Extended,Kia,SUV,South Korea,2025,655065,NMC,86.7,521,4.68,49840,4.8,4.48
+EV-1463,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2019,107423,NMC,75.9,408,8.86,51771,4.7,4.92
+EV-1464,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2019,95757,LFP,84.9,408,9.07,56096,3.9,4.69
+EV-1465,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2020,221807,NMC,88.8,511,6.77,50431,4.6,4.78
+EV-1466,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2020,116065,LFP,75.1,521,9.13,45644,4.6,4.78
+EV-1467,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2021,278917,NMC,80.8,429,8.3,57992,4.6,4.48
+EV-1468,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2021,110309,LFP,88.1,427,7.12,58472,3.9,4.53
+EV-1469,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2022,53204,NMC,80.6,461,6.6,48105,4.4,4.67
+EV-1470,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2022,330648,LFP,77.0,440,6.2,44914,4.8,4.85
+EV-1471,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2023,451859,LFP,92.2,487,7.5,56804,4.3,4.55
+EV-1472,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2023,530325,LFP,80.1,480,7.47,61040,4.0,4.69
+EV-1473,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2024,270933,NMC,96.5,547,7.33,45446,4.3,4.57
+EV-1474,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2024,568390,LFP,94.3,447,7.45,52019,4.3,4.71
+EV-1475,Ford Mustang Mach-E Premium Standard,Ford,SUV,USA,2025,371083,LFP,87.6,476,5.97,50546,4.9,4.81
+EV-1476,Ford Mustang Mach-E Premium Extended,Ford,SUV,USA,2025,495206,LFP,95.1,494,5.7,57083,4.3,4.8
+EV-1477,Rivian R1S Adventure Standard,Rivian,SUV,USA,2019,90630,NMC,112.8,609,9.73,89306,4.5,5.19
+EV-1478,Rivian R1S Adventure Extended,Rivian,SUV,USA,2019,73268,NMC,144.0,628,8.68,77096,4.4,5.27
+EV-1479,Rivian R1S Adventure Standard,Rivian,SUV,USA,2020,236988,NMC,121.5,626,12.7,93417,4.4,5.56
+EV-1480,Rivian R1S Adventure Extended,Rivian,SUV,USA,2020,234347,NMC,146.3,607,12.67,75237,3.8,5.33
+EV-1481,Rivian R1S Adventure Standard,Rivian,SUV,USA,2021,243492,NMC,121.8,610,9.34,84699,4.3,5.26
+EV-1482,Rivian R1S Adventure Extended,Rivian,SUV,USA,2021,238675,NMC,150.1,543,9.69,75684,3.9,5.75
+EV-1483,Rivian R1S Adventure Standard,Rivian,SUV,USA,2022,429476,NMC,160.3,500,11.14,98611,4.4,5.45
+EV-1484,Rivian R1S Adventure Extended,Rivian,SUV,USA,2022,125696,NMC,140.2,573,8.66,92543,4.3,5.42
+EV-1485,Rivian R1S Adventure Standard,Rivian,SUV,USA,2023,437531,NMC,118.4,507,8.87,96711,4.3,5.73
+EV-1486,Rivian R1S Adventure Extended,Rivian,SUV,USA,2023,71935,NMC,139.5,533,7.84,98588,4.5,5.69
+EV-1487,Rivian R1S Adventure Standard,Rivian,SUV,USA,2024,257492,NMC,150.5,710,7.2,100843,4.1,5.82
+EV-1488,Rivian R1S Adventure Extended,Rivian,SUV,USA,2024,353036,NMC,134.2,538,9.82,89138,3.9,5.17
+EV-1489,Rivian R1S Adventure Standard,Rivian,SUV,USA,2025,140891,NMC,164.2,652,7.09,98631,4.0,5.73
+EV-1490,Rivian R1S Adventure Extended,Rivian,SUV,USA,2025,641954,NMC,160.7,681,9.23,86867,4.0,5.26
+EV-1491,BMW iX xDrive50 Standard,BMW,SUV,Germany,2019,136580,NMC,88.6,443,11.36,98699,4.0,5.34
+EV-1492,BMW iX xDrive50 Extended,BMW,SUV,Germany,2019,74727,NMC,84.0,572,11.02,82379,4.1,5.55
+EV-1493,BMW iX xDrive50 Standard,BMW,SUV,Germany,2020,113663,NMC,92.4,588,8.97,85906,4.5,5.7
+EV-1494,BMW iX xDrive50 Extended,BMW,SUV,Germany,2020,73009,NMC,82.2,549,11.12,98891,4.7,5.21
+EV-1495,BMW iX xDrive50 Standard,BMW,SUV,Germany,2021,356481,NMC,97.9,587,10.25,99959,4.1,5.04
+EV-1496,BMW iX xDrive50 Extended,BMW,SUV,Germany,2021,83123,NMC,111.5,452,8.11,88580,3.7,5.1
+EV-1497,BMW iX xDrive50 Standard,BMW,SUV,Germany,2022,416154,NMC,119.0,618,8.13,90064,4.4,5.7
+EV-1498,BMW iX xDrive50 Extended,BMW,SUV,Germany,2022,209018,NMC,109.4,527,10.51,109488,4.8,5.57
+EV-1499,BMW iX xDrive50 Standard,BMW,SUV,Germany,2023,483848,NMC,95.2,642,7.24,113014,3.9,5.08
+EV-1500,BMW iX xDrive50 Extended,BMW,SUV,Germany,2023,539805,NMC,108.9,526,7.77,93882,4.6,5.11
+EV-1501,BMW iX xDrive50 Standard,BMW,SUV,Germany,2024,59400,NMC,90.1,673,6.85,102614,4.2,5.14
+EV-1502,BMW iX xDrive50 Extended,BMW,SUV,Germany,2024,560637,NMC,123.3,626,9.42,103306,4.6,5.41
+EV-1503,BMW iX xDrive50 Standard,BMW,SUV,Germany,2025,272164,NMC,105.1,681,6.81,116892,3.8,5.72
+EV-1504,BMW iX xDrive50 Extended,BMW,SUV,Germany,2025,466154,NMC,104.4,694,8.92,95326,4.9,5.49
+EV-1505,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2019,31652,NMC,93.9,554,8.53,90216,3.9,5.32
+EV-1506,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2019,174106,NMC,92.4,458,8.8,92277,3.7,4.88
+EV-1507,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2020,180221,NMC,94.4,492,9.33,95107,4.0,4.89
+EV-1508,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2020,155534,NMC,95.0,479,8.93,86743,4.8,5.39
+EV-1509,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2021,92516,NMC,97.4,498,8.88,90556,4.7,5.13
+EV-1510,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2021,219781,NMC,96.4,592,7.93,96655,4.1,4.93
+EV-1511,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2022,368480,NMC,102.2,502,7.21,88889,4.5,5.09
+EV-1512,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2022,204305,NMC,96.6,524,7.13,95942,4.7,5.36
+EV-1513,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2023,129075,NMC,100.6,579,7.92,90085,4.3,5.48
+EV-1514,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2023,454878,NMC,101.7,490,6.99,81499,4.3,4.99
+EV-1515,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2024,485904,NMC,103.7,550,8.13,89540,3.8,5.27
+EV-1516,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2024,396340,NMC,103.1,549,8.14,80801,3.9,4.86
+EV-1517,Mercedes-Benz EQE SUV Standard,Mercedes-Benz,SUV,Germany,2025,216071,NMC,104.5,553,7.12,102475,3.8,5.0
+EV-1518,Mercedes-Benz EQE SUV Extended,Mercedes-Benz,SUV,Germany,2025,150452,NMC,110.0,631,6.48,96382,4.8,5.15
+EV-1519,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2019,133910,LFP,34.0,367,6.07,18378,4.0,3.57
+EV-1520,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2019,143184,LFP,34.9,331,7.35,22195,3.9,3.98
+EV-1521,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2020,231020,LFP,32.0,444,7.26,22197,4.6,3.63
+EV-1522,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2020,27965,LFP,35.6,365,7.39,22837,4.9,3.87
+EV-1523,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2021,356773,LFP,36.5,397,6.09,20028,4.5,3.71
+EV-1524,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2021,403338,LFP,33.3,377,5.22,19798,4.6,3.53
+EV-1525,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2022,29376,LFP,37.9,365,5.36,22255,4.5,3.7
+EV-1526,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2022,418447,LFP,38.7,391,6.14,21052,4.4,3.68
+EV-1527,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2023,303674,LFP,39.5,484,4.65,20364,4.5,3.85
+EV-1528,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2023,548862,LFP,35.2,400,5.85,23746,4.6,3.88
+EV-1529,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2024,505878,LFP,38.6,404,4.63,20609,3.8,3.86
+EV-1530,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2024,819183,LFP,39.7,420,5.77,23680,3.8,3.7
+EV-1531,Tata Nexon EV Max Standard,Tata Motors,SUV,India,2025,572139,LFP,38.7,505,4.69,22628,4.5,3.66
+EV-1532,Tata Nexon EV Max Extended,Tata Motors,SUV,India,2025,887073,LFP,41.0,441,4.08,19153,4.3,3.68
+EV-1533,Tata Curvv EV Standard,Tata Motors,SUV,India,2019,102773,LFP,51.6,483,7.02,23482,4.8,3.86
+EV-1534,Tata Curvv EV Extended,Tata Motors,SUV,India,2019,111324,LFP,47.3,442,7.01,22828,3.9,3.98
+EV-1535,Tata Curvv EV Standard,Tata Motors,SUV,India,2020,83554,LFP,56.3,510,6.49,21280,3.9,3.84
+EV-1536,Tata Curvv EV Extended,Tata Motors,SUV,India,2020,132982,LFP,48.4,497,6.92,24222,3.8,3.72
+EV-1537,Tata Curvv EV Standard,Tata Motors,SUV,India,2021,238284,LFP,55.6,543,6.01,24291,4.1,4.16
+EV-1538,Tata Curvv EV Extended,Tata Motors,SUV,India,2021,248794,LFP,56.0,523,5.76,22995,3.8,3.72
+EV-1539,Tata Curvv EV Standard,Tata Motors,SUV,India,2022,143732,LFP,53.6,447,6.18,23457,3.7,3.98
+EV-1540,Tata Curvv EV Extended,Tata Motors,SUV,India,2022,46548,LFP,56.1,560,5.8,25011,4.5,3.91
+EV-1541,Tata Curvv EV Standard,Tata Motors,SUV,India,2023,436223,LFP,54.2,492,5.74,26141,4.2,4.21
+EV-1542,Tata Curvv EV Extended,Tata Motors,SUV,India,2023,76418,LFP,53.2,560,5.79,22649,3.9,3.95
+EV-1543,Tata Curvv EV Standard,Tata Motors,SUV,India,2024,408787,LFP,52.1,580,4.86,27489,4.6,4.09
+EV-1544,Tata Curvv EV Extended,Tata Motors,SUV,India,2024,367160,LFP,53.6,547,5.56,24000,4.6,3.82
+EV-1545,Tata Curvv EV Standard,Tata Motors,SUV,India,2025,176994,LFP,54.4,525,5.09,26045,4.8,4.03
+EV-1546,Tata Curvv EV Extended,Tata Motors,SUV,India,2025,708110,LFP,54.0,537,4.75,26091,4.5,3.95
+EV-1547,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2019,123750,LFP,57.7,422,6.2,36506,4.1,3.92
+EV-1548,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2019,135926,NMC,58.6,457,6.24,45869,3.9,3.95
+EV-1549,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2020,33267,LFP,62.5,482,6.79,44218,4.4,4.33
+EV-1550,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2020,126090,LFP,55.0,397,6.53,36543,4.7,4.32
+EV-1551,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2021,64652,LFP,61.8,474,5.1,40792,4.2,4.42
+EV-1552,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2021,122189,NMC,57.1,410,5.13,44997,4.0,4.42
+EV-1553,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2022,369358,NMC,68.8,466,6.71,35895,4.3,3.93
+EV-1554,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2022,279370,LFP,73.0,368,4.67,38357,3.9,4.25
+EV-1555,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2023,436616,LFP,58.5,522,6.51,39066,4.0,4.2
+EV-1556,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2023,30586,LFP,73.1,493,6.41,39999,4.6,4.39
+EV-1557,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2024,178412,NMC,65.7,475,6.11,41664,4.0,3.96
+EV-1558,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2024,255200,NMC,60.7,392,6.05,42967,3.8,4.05
+EV-1559,Volvo EX30 Ultra Standard,Volvo,SUV,Sweden,2025,728468,NMC,74.0,518,5.19,44848,4.7,4.4
+EV-1560,Volvo EX30 Ultra Extended,Volvo,SUV,Sweden,2025,149239,NMC,63.3,554,4.35,44991,4.2,4.21
+EV-1561,NIO ES6 Performance Standard,NIO,SUV,China,2019,75649,NMC,93.5,591,7.67,55021,4.0,4.83
+EV-1562,NIO ES6 Performance Extended,NIO,SUV,China,2019,87556,Solid-State,82.0,582,,59949,4.4,4.81
+EV-1563,NIO ES6 Performance Standard,NIO,SUV,China,2020,18209,Solid-State,90.2,500,7.01,56799,4.6,5.08
+EV-1564,NIO ES6 Performance Extended,NIO,SUV,China,2020,28867,Solid-State,94.5,631,8.06,59051,4.6,5.04
+EV-1565,NIO ES6 Performance Standard,NIO,SUV,China,2021,342599,Solid-State,84.5,602,6.93,65999,3.7,4.83
+EV-1566,NIO ES6 Performance Extended,NIO,SUV,China,2021,120692,NMC,89.3,538,7.15,62662,4.5,4.87
+EV-1567,NIO ES6 Performance Standard,NIO,SUV,China,2022,227780,NMC,89.8,583,7.4,61968,4.4,4.66
+EV-1568,NIO ES6 Performance Extended,NIO,SUV,China,2022,34328,NMC,91.9,612,7.41,67673,3.8,5.08
+EV-1569,NIO ES6 Performance Standard,NIO,SUV,China,2023,259104,Solid-State,105.9,634,7.11,63001,3.8,4.71
+EV-1570,NIO ES6 Performance Extended,NIO,SUV,China,2023,210994,NMC,101.4,642,5.9,56851,4.3,5.1
+EV-1571,NIO ES6 Performance Standard,NIO,SUV,China,2024,579112,Solid-State,93.1,661,7.48,61219,3.8,4.98
+EV-1572,NIO ES6 Performance Extended,NIO,SUV,China,2024,462499,Solid-State,99.7,687,5.81,68865,4.9,4.61
+EV-1573,NIO ES6 Performance Standard,NIO,SUV,China,2025,689486,NMC,96.0,573,5.92,65508,3.8,4.77
+EV-1574,NIO ES6 Performance Extended,NIO,SUV,China,2025,269913,NMC,104.1,638,5.73,69116,4.5,4.76
+EV-1575,Ford F-150 Lightning Lariat,Ford,Truck,USA,2019,15944,NMC,111.3,458,11.18,57651,4.4,10.95
+EV-1576,Ford F-150 Lightning Lariat,Ford,Truck,USA,2020,3450,NMC,109.8,487,11.9,82535,3.9,11.31
+EV-1577,Ford F-150 Lightning Lariat,Ford,Truck,USA,2021,10106,NMC,108.7,487,9.25,76812,4.2,11.84
+EV-1578,Ford F-150 Lightning Lariat,Ford,Truck,USA,2022,24423,NMC,115.4,491,7.64,67061,4.4,11.28
+EV-1579,Ford F-150 Lightning Lariat,Ford,Truck,USA,2023,7498,NMC,116.4,438,9.58,75347,4.6,11.78
+EV-1580,Ford F-150 Lightning Lariat,Ford,Truck,USA,2024,50707,NMC,144.1,439,9.96,70885,3.8,12.01
+EV-1581,Ford F-150 Lightning Lariat,Ford,Truck,USA,2025,47716,NMC,123.6,528,6.94,79181,4.3,10.77
+EV-1582,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2019,5165,NMC,126.9,514,12.31,96475,3.8,11.54
+EV-1583,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2020,11776,NCA,128.7,514,10.39,97850,4.5,12.69
+EV-1584,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2021,25847,NMC,131.8,571,8.75,95472,4.8,12.27
+EV-1585,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2022,14400,NMC,134.7,554,10.8,96450,4.2,11.22
+EV-1586,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2023,14143,NCA,141.9,592,10.98,90958,4.2,11.7
+EV-1587,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2024,28705,NCA,144.7,549,9.69,103688,4.2,12.62
+EV-1588,Tesla Cybertruck Dual Motor,Tesla,Truck,USA,2025,42140,NMC,148.5,615,7.99,105541,3.7,11.29
+EV-1589,Rivian R1T Dual Motor,Rivian,Truck,USA,2019,4158,NMC,132.7,594,10.03,73976,4.3,12.37
+EV-1590,Rivian R1T Dual Motor,Rivian,Truck,USA,2020,17809,NMC,146.2,618,9.21,85188,4.7,12.12
+EV-1591,Rivian R1T Dual Motor,Rivian,Truck,USA,2021,3908,NMC,114.8,538,9.34,81306,4.4,11.84
+EV-1592,Rivian R1T Dual Motor,Rivian,Truck,USA,2022,15446,NMC,157.1,691,9.32,81568,3.8,11.48
+EV-1593,Rivian R1T Dual Motor,Rivian,Truck,USA,2023,16561,NMC,117.5,626,10.19,83476,4.8,12.14
+EV-1594,Rivian R1T Dual Motor,Rivian,Truck,USA,2024,52046,LFP,134.1,601,9.29,96416,4.2,11.54
+EV-1595,Rivian R1T Dual Motor,Rivian,Truck,USA,2025,13679,NMC,124.1,748,7.47,90972,4.3,12.23
+EV-1596,Chevrolet Silverado EV WT,General Motors,Truck,USA,2019,7085,NMC,194.0,670,13.35,71207,4.0,13.24
+EV-1597,Chevrolet Silverado EV WT,General Motors,Truck,USA,2020,3020,NMC,175.0,627,14.54,78132,3.9,12.05
+EV-1598,Chevrolet Silverado EV WT,General Motors,Truck,USA,2021,4635,NMC,213.9,711,10.69,74755,3.9,13.19
+EV-1599,Chevrolet Silverado EV WT,General Motors,Truck,USA,2022,17772,NMC,212.7,750,12.8,90374,4.8,12.29
+EV-1600,Chevrolet Silverado EV WT,General Motors,Truck,USA,2023,18065,NMC,218.8,619,11.49,75249,3.7,12.2
+EV-1601,Chevrolet Silverado EV WT,General Motors,Truck,USA,2024,39564,NMC,211.2,847,8.05,93519,4.7,13.18
+EV-1602,Chevrolet Silverado EV WT,General Motors,Truck,USA,2025,58393,NMC,212.9,634,11.04,98116,4.0,13.39
+EV-1603,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2019,1954,NMC,274.7,400,7.5,252552,4.5,27.52
+EV-1604,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2020,13059,LFP,254.2,465,7.59,234439,4.5,26.1
+EV-1605,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2021,30474,NMC,252.7,328,8.47,289098,3.9,28.15
+EV-1606,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2022,46462,LFP,258.2,324,9.4,226351,4.7,25.48
+EV-1607,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2023,29470,NMC,232.8,481,8.54,211253,4.7,26.24
+EV-1608,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2024,46839,NMC,278.9,357,6.21,233834,3.8,26.63
+EV-1609,Volvo FM Electric Heavy,Volvo,Truck,Sweden,2025,60182,LFP,339.3,439,5.36,242982,3.9,26.88
+EV-1610,Scania 25 P Electric,Scania,Truck,Sweden,2019,15590,NMC,204.2,325,,190463,4.3,23.72
+EV-1611,Scania 25 P Electric,Scania,Truck,Sweden,2020,20677,NMC,246.1,398,7.89,217685,4.1,24.63
+EV-1612,Scania 25 P Electric,Scania,Truck,Sweden,2021,13335,NMC,190.5,359,6.5,192289,4.4,24.22
+EV-1613,Scania 25 P Electric,Scania,Truck,Sweden,2022,30578,NMC,270.1,325,8.14,201636,4.7,23.13
+EV-1614,Scania 25 P Electric,Scania,Truck,Sweden,2023,39018,NMC,184.4,289,6.99,266563,4.3,24.73
+EV-1615,Scania 25 P Electric,Scania,Truck,Sweden,2024,61450,NMC,294.4,455,7.15,194463,4.5,23.39
+EV-1616,Scania 25 P Electric,Scania,Truck,Sweden,2025,30343,NMC,225.7,410,6.18,251418,4.3,24.28
+EV-1617,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2019,5576,LFP,224.7,416,9.27,204394,4.1,26.45
+EV-1618,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2020,15712,NMC,222.5,312,10.41,278912,4.4,24.7
+EV-1619,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2021,5203,NMC,274.9,388,10.76,273418,3.7,25.62
+EV-1620,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2022,23194,LFP,264.2,422,7.1,264521,3.9,26.11
+EV-1621,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2023,42119,NMC,281.7,356,9.2,273198,3.9,24.7
+EV-1622,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2024,48296,NMC,377.3,462,8.6,294200,4.0,26.19
+EV-1623,Mercedes-Benz eActros 300,Mercedes-Benz,Truck,Germany,2025,23258,NMC,264.3,381,5.96,302051,3.8,23.81
+EV-1624,Nikola Tre BEV,Nikola,Truck,USA,2019,11845,NMC,590.3,448,5.47,284651,3.8,31.33
+EV-1625,Nikola Tre BEV,Nikola,Truck,USA,2020,22070,NMC,772.4,531,5.24,366352,4.4,30.83
+EV-1626,Nikola Tre BEV,Nikola,Truck,USA,2021,29963,NMC,775.6,492,4.96,301111,4.8,33.83
+EV-1627,Nikola Tre BEV,Nikola,Truck,USA,2022,37526,NMC,681.1,460,3.48,359378,4.3,34.02
+EV-1628,Nikola Tre BEV,Nikola,Truck,USA,2023,18936,NMC,738.1,493,4.69,340123,4.7,31.82
+EV-1629,Nikola Tre BEV,Nikola,Truck,USA,2024,34735,NMC,594.6,536,3.58,322127,4.0,33.74
+EV-1630,Nikola Tre BEV,Nikola,Truck,USA,2025,66680,NMC,855.3,627,3.71,385649,4.6,32.55
+EV-1631,BYD K9 Electric Transit,BYD,Bus,China,2019,3521,LFP,332.3,316,3.74,423528,4.8,55.54
+EV-1632,BYD K9 Electric Transit,BYD,Bus,China,2020,6092,LFP,375.3,383,5.58,367341,4.8,59.7
+EV-1633,BYD K9 Electric Transit,BYD,Bus,China,2021,9763,LFP,414.6,329,4.6,424851,4.6,58.15
+EV-1634,BYD K9 Electric Transit,BYD,Bus,China,2022,7938,LFP,444.8,303,4.02,453009,4.0,58.96
+EV-1635,BYD K9 Electric Transit,BYD,Bus,China,2023,14104,LFP,417.1,382,3.09,414671,4.6,62.54
+EV-1636,BYD K9 Electric Transit,BYD,Bus,China,2024,10353,LFP,451.1,405,3.67,466067,4.4,55.14
+EV-1637,BYD K9 Electric Transit,BYD,Bus,China,2025,15243,LFP,490.9,435,3.88,441421,4.1,57.25
+EV-1638,Yutong E12 CityBus,Yutong,Bus,China,2019,795,LFP,381.4,320,3.85,401670,4.6,59.23
+EV-1639,Yutong E12 CityBus,Yutong,Bus,China,2020,4252,LFP,301.3,314,3.25,392125,4.6,59.55
+EV-1640,Yutong E12 CityBus,Yutong,Bus,China,2021,5831,LFP,391.1,417,5.05,360050,4.3,56.53
+EV-1641,Yutong E12 CityBus,Yutong,Bus,China,2022,12050,LFP,410.4,333,3.0,423732,3.8,55.89
+EV-1642,Yutong E12 CityBus,Yutong,Bus,China,2023,3425,LFP,317.7,308,4.51,398738,4.4,53.55
+EV-1643,Yutong E12 CityBus,Yutong,Bus,China,2024,9720,LFP,463.1,336,3.25,389325,4.4,57.32
+EV-1644,Yutong E12 CityBus,Yutong,Bus,China,2025,11860,LFP,456.6,382,3.52,402145,4.2,59.51
+EV-1645,Proterra ZX5 Max,Proterra,Bus,USA,2019,3666,NMC,379.0,445,4.65,443298,4.2,63.11
+EV-1646,Proterra ZX5 Max,Proterra,Bus,USA,2020,4255,NMC,649.1,474,5.38,487008,3.9,65.95
+EV-1647,Proterra ZX5 Max,Proterra,Bus,USA,2021,10532,NMC,698.1,451,4.17,526659,4.0,62.51
+EV-1648,Proterra ZX5 Max,Proterra,Bus,USA,2022,3182,NMC,409.2,450,4.37,570557,3.7,65.19
+EV-1649,Proterra ZX5 Max,Proterra,Bus,USA,2023,6207,NMC,482.1,359,3.18,459130,4.2,62.21
+EV-1650,Proterra ZX5 Max,Proterra,Bus,USA,2024,20372,NMC,466.2,515,2.89,576820,4.8,61.23
+EV-1651,Proterra ZX5 Max,Proterra,Bus,USA,2025,12206,NMC,694.3,505,4.04,448383,4.2,64.83
+EV-1652,Volvo 7900 Electric,Volvo,Bus,Sweden,2019,3572,LFP,394.5,371,5.43,389424,3.9,56.31
+EV-1653,Volvo 7900 Electric,Volvo,Bus,Sweden,2020,4105,LFP,289.2,342,6.08,511760,4.2,58.77
+EV-1654,Volvo 7900 Electric,Volvo,Bus,Sweden,2021,10114,LFP,287.9,405,5.19,387623,4.0,54.04
+EV-1655,Volvo 7900 Electric,Volvo,Bus,Sweden,2022,1723,LFP,509.3,396,5.25,408108,3.8,57.24
+EV-1656,Volvo 7900 Electric,Volvo,Bus,Sweden,2023,16997,NMC,459.7,458,3.8,514115,4.5,59.25
+EV-1657,Volvo 7900 Electric,Volvo,Bus,Sweden,2024,3950,LFP,365.1,388,3.79,456351,4.8,56.6
+EV-1658,Volvo 7900 Electric,Volvo,Bus,Sweden,2025,19698,NMC,525.2,403,4.84,509416,4.5,52.8
+EV-1659,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2019,2243,NMC,468.7,380,4.51,452449,4.7,60.17
+EV-1660,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2020,5283,NMC,325.6,316,3.96,515780,3.9,60.2
+EV-1661,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2021,6863,Solid-State,477.4,321,5.63,486816,3.7,61.44
+EV-1662,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2022,8759,Solid-State,340.3,326,3.78,528313,3.9,58.51
+EV-1663,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2023,1414,NMC,352.8,457,5.33,474703,4.9,59.17
+EV-1664,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2024,7797,Solid-State,486.5,429,4.12,538370,4.7,57.16
+EV-1665,Mercedes-Benz eCitaro,Mercedes-Benz,Bus,Germany,2025,11166,NMC,498.4,381,4.65,459610,4.2,54.19
+EV-1666,Tata Starbus EV 12m,Tata Motors,Bus,India,2019,4903,LFP,236.8,295,4.84,222595,3.9,47.65
+EV-1667,Tata Starbus EV 12m,Tata Motors,Bus,India,2020,2134,LFP,276.4,215,4.47,211473,3.8,47.09
+EV-1668,Tata Starbus EV 12m,Tata Motors,Bus,India,2021,1609,LFP,307.9,298,3.06,214935,4.2,46.38
+EV-1669,Tata Starbus EV 12m,Tata Motors,Bus,India,2022,1523,LFP,326.1,265,3.97,190986,4.4,48.29
+EV-1670,Tata Starbus EV 12m,Tata Motors,Bus,India,2023,11154,LFP,305.3,279,3.03,226920,4.5,45.67
+EV-1671,Tata Starbus EV 12m,Tata Motors,Bus,India,2024,11745,LFP,286.2,279,2.6,221731,4.4,46.27
+EV-1672,Tata Starbus EV 12m,Tata Motors,Bus,India,2025,11188,LFP,310.1,247,2.59,226825,4.6,48.37
+EV-1673,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2019,3231,LFP,296.5,247,4.68,410631,4.3,51.35
+EV-1674,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2020,3896,NMC,325.9,292,3.4,409876,4.7,56.27
+EV-1675,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2021,7747,NMC,339.2,381,3.44,371998,4.3,55.12
+EV-1676,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2022,848,NMC,383.7,312,3.99,352299,4.0,51.94
+EV-1677,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2023,17748,LFP,343.3,381,3.58,376129,4.1,50.86
+EV-1678,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2024,5279,LFP,395.1,301,3.97,426506,4.0,51.86
+EV-1679,Solaris Urbino 12 Electric,Solaris,Bus,Poland,2025,1895,NMC,427.8,337,2.79,493924,4.5,52.96
+EV-1657,Volvo 7900 Electric,Volvo,Bus,Sweden,2024,3950,LFP,365.1,388,3.79,456351,4.8,56.6
+EV-1594,Rivian R1T Dual Motor,Rivian,Truck,USA,2024,52046,LFP,134.1,601,9.29,96416,4.2,11.54
+EV-1322,Lucid Air Grand Touring Extended,Lucid,Sedan,USA,2025,297032,Solid-State,136.3,801,7.02,124146,4.5,5.42
+EV-1140,LiveWire ONE Extended,LiveWire,Two-Wheeler,USA,2025,88193,NMC,18.4,247,2.44,24825,3.8,1.36
+EV-1397,BYD Atto 3 Superior Standard,BYD,SUV,China,2021,198976,LFP,58.6,441,6.18,35879,4.0,3.96
