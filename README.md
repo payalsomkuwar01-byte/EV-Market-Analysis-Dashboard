@@ -13,7 +13,7 @@
 ## 🔗 Live Application & Repository Placeholders
 
 - **Live Demo:** `https://<your-username>-ev-market-analysis.streamlit.app` *(Streamlit Community Cloud placeholder)*
-- **GitHub Repository:** `https://github.com/<your-username>/electric-vehicle-market-performance` *(GitHub repository placeholder)*
+- **GitHub Repository:** `https://github.com/<your-username>/EV-Market-Analysis-Dashboard` *(GitHub repository placeholder)*
 
 ---
 
@@ -172,8 +172,8 @@ Follow these steps to run the application locally on your workstation:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/electric-vehicle-market-performance.git
-cd "electric-vehicle-market-performance"
+git clone https://github.com/<your-username>/EV-Market-Analysis-Dashboard.git
+cd "EV-Market-Analysis-Dashboard"
 ```
 
 ### Step 2: Create and Activate a Virtual Environment
@@ -218,14 +218,14 @@ This project is configured for one-click deployment on **Streamlit Community Clo
    git add .
    git commit -m "feat: complete EV market performance analytics dashboard"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/electric-vehicle-market-performance.git
+   git remote add origin https://github.com/<your-username>/EV-Market-Analysis-Dashboard.git
    git push -u origin main
    ```
 2. **Access Streamlit Community Cloud:**
    - Navigate to [share.streamlit.io](https://share.streamlit.io/) and authenticate with your GitHub account.
 3. **Configure New App:**
    - Click **"New app"**.
-   - Select your repository: `<your-username>/electric-vehicle-market-performance`.
+   - Select your repository: `<your-username>/EV-Market-Analysis-Dashboard`.
    - Set Branch to `main`.
    - Set Main file path to `app.py`.
 4. **Deploy:**
